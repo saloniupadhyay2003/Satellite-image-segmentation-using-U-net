@@ -46,21 +46,7 @@ The model will generate a segmentation mask, highlighting different regions.
 
 **Deployment**: Hugging Face Spaces
 
-## Installation & Setup
-1. Clone the Repository
-bash
-Copy code
-git clone <repo-link>
-cd <repo-folder>
-2. Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3. Run the Jupyter Notebook
-bash
-Copy code
-jupyter notebook
-Load and execute Satellite_imagery(Prediction with custom images+activation output).ipynb.
+
 ## Project Structure
 bash
 
